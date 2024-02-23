@@ -1,0 +1,26 @@
+
+.input{
+    display: grid;
+    width: 200px;
+    background-color: tomato;
+    gap: 10px;
+    
+}
+
+.input input{
+    width: 150px;
+    height: 20px;
+    outline: none;
+    border-radius: 10px;
+}
+
+input button{
+    width: 60px;
+    gap: 5px;
+}
+
+.plus{
+    display: flex;
+    justify-content: center;
+    width: 150px;
+}
